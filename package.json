@@ -18,6 +18,7 @@
     "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-slider": "latest",
     "@radix-ui/react-switch": "latest",
+    "@supabase/auth-helpers-nextjs": "latest",
     "@supabase/supabase-js": "latest",
     "better-react-mathjax": "latest",
     "class-variance-authority": "^0.7.1",
